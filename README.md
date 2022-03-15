@@ -12,9 +12,7 @@ Net64+ is the official continuation of the program and features an integrated se
 This repository includes the client software. If you want to host your own dedicated server, please visit the [server repository](https://github.com/Tarnadas/net64plus-server).
 
 ## Download
-
 Download the client/server/emulator bundle in the [release section](https://github.com/Tarnadas/net64plus/releases).
 
 ## Server List
-
 There is a [public server list](https://net64-mod.github.io/servers) of all Net64+ server, that have enabled listing.
